@@ -115,8 +115,20 @@ article p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.contaot hr {
-    
+.contato hr {
+    background-color: rgb(177, 85, 46);
+    height: 2px;
+    border: none;
 }
 
+.contato p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.contato input {
+   border-radius: 4px;
+   width: 350px;
+   height: 20px;
+   border: 2px solid rgb(200, 199, 199)
+}
 
